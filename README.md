@@ -1,4 +1,4 @@
-<!--Admin password -->
+Admin password
 
-<!-- login: owner -->
-<!-- password: 123 -->
+login: owner
+password: 123
